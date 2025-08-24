@@ -41,7 +41,7 @@ I grow my skills through:
 ## 🌐 Let's Connect
 
 - 📫 **Email**: [bradwanbassam@gmail.com](mailto:loairalshujaa@gmail.com)  
-- 💼 **LinkedIn**: [Bassam Radwan on LinkedIn](https://www.linkedin.com/in/bassam-radwan)  
+- 💼 **LinkedIn**: [Bassam Radwan on LinkedIn](www.linkedin.com/in/bassam-alshujaa-a81393364)  
 - 🗂️ **Portfolio**: [bassam-radwan.github.io/profile](https://bassam-radwan.github.io/profile)
 
 ---
